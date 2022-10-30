@@ -33,11 +33,11 @@ url: "https://dyadica.github.io" # the base hostname & protocol for your site, e
 permalink: /blog/:title/
 
 facebook_username: adropinthedigitalocean
-twitter_username: dyadica
+#twitter_username:
 github_username:  dyadica
 youtube_username: dyadica
 instagram_username: adropinthedigitalocean
-#pinterest_username: sjb1182
+#pinterest_username:
 steam_username: dyadica-github-io
 scholar_username: PeFH5psAAAAJ&hl
 
