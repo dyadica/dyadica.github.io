@@ -44,6 +44,9 @@ GEM
     google-protobuf (4.36.2-x64-mingw-ucrt)
       bigdecimal
       rake (~> 13.3)
+    google-protobuf (4.36.2-x86_64-linux-gnu)
+      bigdecimal
+      rake (~> 13.3)
     http_parser.rb (0.8.1)
     i18n (1.15.2)
       concurrent-ruby (~> 1.0)
@@ -113,6 +116,8 @@ GEM
       rake (~> 13.3)
     sass-embedded (1.108.2-x64-mingw-ucrt)
       google-protobuf (~> 4.31)
+    sass-embedded (1.108.2-x86_64-linux-gnu)
+      google-protobuf (~> 4.31)
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
@@ -129,6 +134,7 @@ GEM
 PLATFORMS
   x64-mingw-ucrt
   x64-mingw32
+  x86_64-linux
 
 DEPENDENCIES
   jekyll (~> 4.4.1)
